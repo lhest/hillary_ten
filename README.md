@@ -1,2 +1,2 @@
 # hillary_ten
-Hillary ten - finance bot the first try to create telegram bot. 
+Hillary ten - finance bot. The first try to create bot.
