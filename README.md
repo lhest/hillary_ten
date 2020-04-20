@@ -1,2 +1,2 @@
 # hillary_ten
-Hillary ten - finance bot. The first try to create bot.
+Hillary ten - the bot which counts the exchange rate with the data from several Ukrainian banks. The first bot.
